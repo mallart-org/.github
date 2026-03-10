@@ -1,7 +1,7 @@
 <h1>
 <p align="center">
   <a href="https://github.com/mallart-org">
-    <img src="" alt="Logo" width="128">
+    <img src="https://github.com/mallart-org/.github/blob/main/static/Mallart-logo-square.jpg" alt="Logo" width="256">
   </a>
   <br>Mallart
 </h1>
